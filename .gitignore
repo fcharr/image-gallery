@@ -1,0 +1,6 @@
+/images
+/thumbs
+/*.*
+!/index.php
+!/*.png
+!/.gitignore
